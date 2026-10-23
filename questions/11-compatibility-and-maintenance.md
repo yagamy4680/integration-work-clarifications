@@ -1,13 +1,7 @@
-# Q11. Who owns compatibility after the first release?
+# Q11. Maintaining an integration
 
-[Back to questions](../README.md)
+When a partner updates its firmware or API, how does the team handle compatibility and regression testing? Would the Taiwan engineer continue maintaining the adapter after the initial delivery?
 
-**Source anchor:** [NODA's vendor-neutral integration positioning](https://nodaintelligence.ai/solutions/).
+**Reference:** [NODA platform principles](https://nodaintelligence.ai/solutions/).
 
-> When an OEM changes its firmware or API, who assesses the impact, runs regression tests, and approves the new supported combination?
-
-Ask about version pinning, compatibility policy, rollout and rollback procedures, and support handover. Does the same integration engineer maintain the adapter throughout its lifecycle?
-
-**Capture:** maintenance owner, release gate, compatibility evidence, and support expectations.
-
-**Related context:** [Discussion guide and deliverables](../discussion-guide.md) · [Public evidence and reading](../background-and-sources.md).
+[All topics](../README.md)

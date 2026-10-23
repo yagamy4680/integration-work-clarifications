@@ -1,13 +1,9 @@
-# Q12. What would successful onboarding look like?
+# Q12. Getting started
 
-[Back to questions](../README.md)
+What would be a useful first project for me, and what would you like me to be able to own after the first few months?
 
-**Source anchor:** [Taiwan role and growth path](https://jobs.ashbyhq.com/noda-ai/8253e820-f565-4428-8aaf-b6284ca2d450).
+I'd also like to learn about the documentation, lab setup, and team support available during onboarding.
 
-> What would you want me to demonstrate in the first 30, 60, and 90 days? Which integration would be a useful first assignment, and what documentation, equipment, and engineering support would be available?
+**Reference:** [Taiwan role](https://jobs.ashbyhq.com/noda-ai/8253e820-f565-4428-8aaf-b6284ca2d450).
 
-Ask which capabilities are expected on day one and which can be learned with the team. If documentation, hardware, or development access is pending, what work can begin first, and who coordinates those dependencies?
-
-**Capture:** measurable outcomes, prerequisites, support, and the first review point.
-
-**Related context:** [Discussion guide and deliverables](../discussion-guide.md) · [Public evidence and reading](../background-and-sources.md).
+[All topics](../README.md)

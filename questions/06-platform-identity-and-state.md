@@ -1,13 +1,7 @@
-# Q6. How are platform identity and current state represented?
+# Q6. Platform identity and state
 
-[Back to questions](../README.md)
+How does NODA keep track of the same platform across different connections or a restart? Is identity mapping and telemetry freshness handled by the SDK, or would that be part of the adapter?
 
-**Source anchor:** [NODA interoperability principles](https://nodaintelligence.ai/about/). This is a proposed integration-contract question; the public page does not specify an identity mechanism.
+**Reference:** [NODA interoperability principles](https://nodaintelligence.ai/about/).
 
-> How does a stable platform identity map to its current process, middleware session, and OEM protocol address? What changes after a restart or hardware replacement?
-
-Ask whether the integration engineer manages registration and mappings or consumes an existing service. How are duplicate identities, stale telemetry, and incompatible schema versions surfaced? Which component authorizes an adapter to represent a platform?
-
-**Capture:** identity source, mapping owner, freshness rules, and the available validation checks.
-
-**Related context:** [Architecture hypotheses](../architecture-hypotheses.md) · [Discussion guide](../discussion-guide.md).
+[All topics](../README.md)
