@@ -2,6 +2,15 @@
 
 A few topics I'd like to explore with the engineering team to better understand NODA's architecture and the Systems Software Integration Engineer role in Taiwan.
 
+## Topics to start with
+
+| Topic | Summary |
+| --- | --- |
+| [2. Where the integration runs](questions/02-deployment-location.md) | Deployment locations and existing partner interfaces. |
+| [5. Zenoh and networking](questions/05-zenoh-and-multicast.md) | Middleware, multicast, and the networking work involved in integration. |
+| [9. Testing an integration](questions/09-integration-acceptance.md) | The path from a working connection to deployment readiness. |
+| [10. Working with the team](questions/10-taiwan-role-and-ownership.md) | Responsibilities shared by the Taiwan engineer, core team, and OEMs. |
+
 ## Discussion topics
 
 | Topic | Summary |
